@@ -1,0 +1,10 @@
+Vessel Class,Vessel Size,Deadweight (tonnes)
+Container Ship,3500_teu,99000
+Container Ship,8000_teu,225000
+Container Ship,15000_teu,432000
+Bulk Carrier,handy,35000
+Bulk Carrier,panamax,75000
+Bulk Carrier,capesize,200000
+Tanker,35k,35000
+Tanker,100k,100000
+Tanker,300k,300000
